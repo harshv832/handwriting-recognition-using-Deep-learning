@@ -1,17 +1,20 @@
 # HandWriting To Latex
 
-Convert hand written mathematical expressions and formula to latext.
+Convert transcribed numerical articulations and equation to latex.
 
 ## Instructions
 
-1. Make sure you have Python > 3 installed
-2. Clone or download this project
-3. Visit this (https://www.kaggle.com/xainano/handwrittenmathsymbols) link to download the Train Dataset
-4. Extract the contents of the downloaded file in step 4 and place in a folder named ``Dataset``
-5. Type and run ``pip install requirements.txt`` in your terminal/command prompt or shell
-6. Run ``python main.py TestData/test1.jpg`` to recognize the image in the test data folder
+1. 1.Make sure you have Python 3 introduced 
 
+2. Clone or download this task 
+
+3. Visit this (https://www.kaggle.com/xainano/handwrittenmathsymbols) connection to download the Train Dataset 
+
+4. Concentrate the substance of the downloaded record in sync 4 and spot in an envelope named ''Dataset'' 
+
+5. Type and run ''pip introduce requirements.txt'' in your terminal/order brief or shell 
+
+6. Run ''python main.py TestData/test1.jpg'' to perceive the picture in the test information organizer
 ## Todo
 
-1. Recognition of text on a page
-2. Deploy model for use as an API
+ Acknowledgment of text on a page
